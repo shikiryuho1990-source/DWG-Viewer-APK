@@ -1,0 +1,6 @@
+{
+  "name": "DWG CAD Viewer",
+  "description": "A lightweight offline-first CAD viewer that reads binary DWG version signatures, renders vector blueprints with layer controls, supports annotations, and plots to crisp PDF sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
